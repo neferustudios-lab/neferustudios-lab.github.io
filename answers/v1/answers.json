@@ -1,0 +1,3536 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 2,
+  "lastVerified": "2026-11-19",
+  "federal": {
+    "president": {
+      "name": "Donald J. Trump",
+      "distractors": [
+        "Joe Biden",
+        "Barack Obama",
+        "George W. Bush"
+      ]
+    },
+    "vicePresident": {
+      "name": "JD Vance",
+      "distractors": [
+        "Kamala Harris",
+        "Mike Pence",
+        "Joe Biden"
+      ]
+    },
+    "speakerOfTheHouse": {
+      "name": "Mike Johnson",
+      "distractors": [
+        "Kevin McCarthy",
+        "Nancy Pelosi",
+        "Paul Ryan"
+      ]
+    },
+    "chiefJustice": {
+      "name": "John G. Roberts, Jr.",
+      "distractors": [
+        "William H. Rehnquist",
+        "Warren E. Burger",
+        "Earl Warren"
+      ]
+    },
+    "presidentParty": {
+      "name": "Republican (Party)",
+      "distractors": [
+        "Democratic (Party)",
+        "Whig (Party)",
+        "Federalist (Party)"
+      ]
+    },
+    "supremeCourtJusticeCount": {
+      "name": "Nine (9)",
+      "distractors": [
+        "Seven (7)",
+        "Twelve (12)",
+        "Fifteen (15)"
+      ]
+    }
+  },
+  "jurisdictions": {
+    "AL": {
+      "name": "Alabama",
+      "kind": "state",
+      "capital": "Montgomery",
+      "capitalDistractors": [
+        "Birmingham",
+        "Huntsville",
+        "Mobile"
+      ],
+      "governor": {
+        "name": "Kay Ivey"
+      },
+      "senators": [
+        {
+          "name": "Tommy Tuberville"
+        },
+        {
+          "name": "Katie Boyd Britt"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Barry Moore",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Shomari Figures",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Rogers",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert B. Aderholt",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Dale W. Strong",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Gary J. Palmer",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Terri A. Sewell",
+          "district": "7",
+          "title": "Representative"
+        }
+      ]
+    },
+    "AK": {
+      "name": "Alaska",
+      "kind": "state",
+      "capital": "Juneau",
+      "capitalDistractors": [
+        "Anchorage",
+        "Fairbanks",
+        "Sitka"
+      ],
+      "governor": {
+        "name": "Mike Dunleavy"
+      },
+      "senators": [
+        {
+          "name": "Lisa Murkowski"
+        },
+        {
+          "name": "Dan Sullivan"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Nicholas J. Begich III",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "AZ": {
+      "name": "Arizona",
+      "kind": "state",
+      "capital": "Phoenix",
+      "capitalDistractors": [
+        "Tucson",
+        "Mesa",
+        "Flagstaff"
+      ],
+      "governor": {
+        "name": "Katie Hobbs"
+      },
+      "senators": [
+        {
+          "name": "Ruben Gallego"
+        },
+        {
+          "name": "Mark Kelly"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "David Schweikert",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Elijah Crane",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Yassamin Ansari",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Greg Stanton",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Andy Biggs",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Juan Ciscomani",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Adelita S. Grijalva",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Abraham J. Hamadeh",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Paul A. Gosar",
+          "district": "9",
+          "title": "Representative"
+        }
+      ]
+    },
+    "AR": {
+      "name": "Arkansas",
+      "kind": "state",
+      "capital": "Little Rock",
+      "capitalDistractors": [
+        "Fort Smith",
+        "Fayetteville",
+        "Jonesboro"
+      ],
+      "governor": {
+        "name": "Sarah Huckabee Sanders"
+      },
+      "senators": [
+        {
+          "name": "John Boozman"
+        },
+        {
+          "name": "Tom Cotton"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Eric A. \"Rick\" Crawford",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "J. French Hill",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Steve Womack",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Bruce Westerman",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "CA": {
+      "name": "California",
+      "kind": "state",
+      "capital": "Sacramento",
+      "capitalDistractors": [
+        "Los Angeles",
+        "San Francisco",
+        "San Diego"
+      ],
+      "governor": {
+        "name": "Gavin Newsom"
+      },
+      "senators": [
+        {
+          "name": "Adam B. Schiff"
+        },
+        {
+          "name": "Alex Padilla"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "James Gallagher",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Jared Huffman",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Kevin Kiley",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Thompson",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Tom McClintock",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Ami Bera",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Doris O. Matsui",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "John Garamendi",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Josh Harder",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark DeSaulnier",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Nancy Pelosi",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Lateefah Simon",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Adam Gray",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Aisha Wahab",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Kevin Mullin",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "Sam T. Liccardo",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "Ro Khanna",
+          "district": "17",
+          "title": "Representative"
+        },
+        {
+          "name": "Zoe Lofgren",
+          "district": "18",
+          "title": "Representative"
+        },
+        {
+          "name": "Jimmy Panetta",
+          "district": "19",
+          "title": "Representative"
+        },
+        {
+          "name": "Vince Fong",
+          "district": "20",
+          "title": "Representative"
+        },
+        {
+          "name": "Jim Costa",
+          "district": "21",
+          "title": "Representative"
+        },
+        {
+          "name": "David G. Valadao",
+          "district": "22",
+          "title": "Representative"
+        },
+        {
+          "name": "Jay Obernolte",
+          "district": "23",
+          "title": "Representative"
+        },
+        {
+          "name": "Salud O. Carbajal",
+          "district": "24",
+          "title": "Representative"
+        },
+        {
+          "name": "Raul Ruiz",
+          "district": "25",
+          "title": "Representative"
+        },
+        {
+          "name": "Julia Brownley",
+          "district": "26",
+          "title": "Representative"
+        },
+        {
+          "name": "George Whitesides",
+          "district": "27",
+          "title": "Representative"
+        },
+        {
+          "name": "Judy Chu",
+          "district": "28",
+          "title": "Representative"
+        },
+        {
+          "name": "Luz M. Rivas",
+          "district": "29",
+          "title": "Representative"
+        },
+        {
+          "name": "Laura Friedman",
+          "district": "30",
+          "title": "Representative"
+        },
+        {
+          "name": "Gilbert Ray Cisneros, Jr.",
+          "district": "31",
+          "title": "Representative"
+        },
+        {
+          "name": "Brad Sherman",
+          "district": "32",
+          "title": "Representative"
+        },
+        {
+          "name": "Pete Aguilar",
+          "district": "33",
+          "title": "Representative"
+        },
+        {
+          "name": "Jimmy Gomez",
+          "district": "34",
+          "title": "Representative"
+        },
+        {
+          "name": "Norma J. Torres",
+          "district": "35",
+          "title": "Representative"
+        },
+        {
+          "name": "Ted Lieu",
+          "district": "36",
+          "title": "Representative"
+        },
+        {
+          "name": "Sydney Kamlager-Dove",
+          "district": "37",
+          "title": "Representative"
+        },
+        {
+          "name": "Linda T. Sánchez",
+          "district": "38",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark Takano",
+          "district": "39",
+          "title": "Representative"
+        },
+        {
+          "name": "Young Kim",
+          "district": "40",
+          "title": "Representative"
+        },
+        {
+          "name": "Ken Calvert",
+          "district": "41",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert Garcia",
+          "district": "42",
+          "title": "Representative"
+        },
+        {
+          "name": "Maxine Waters",
+          "district": "43",
+          "title": "Representative"
+        },
+        {
+          "name": "Nanette Diaz Barragán",
+          "district": "44",
+          "title": "Representative"
+        },
+        {
+          "name": "Derek Tran",
+          "district": "45",
+          "title": "Representative"
+        },
+        {
+          "name": "J. Luis Correa",
+          "district": "46",
+          "title": "Representative"
+        },
+        {
+          "name": "Dave Min",
+          "district": "47",
+          "title": "Representative"
+        },
+        {
+          "name": "Darrell Issa",
+          "district": "48",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Levin",
+          "district": "49",
+          "title": "Representative"
+        },
+        {
+          "name": "Scott H. Peters",
+          "district": "50",
+          "title": "Representative"
+        },
+        {
+          "name": "Sara Jacobs",
+          "district": "51",
+          "title": "Representative"
+        },
+        {
+          "name": "Juan Vargas",
+          "district": "52",
+          "title": "Representative"
+        }
+      ]
+    },
+    "CO": {
+      "name": "Colorado",
+      "kind": "state",
+      "capital": "Denver",
+      "capitalDistractors": [
+        "Colorado Springs",
+        "Boulder",
+        "Aurora"
+      ],
+      "governor": {
+        "name": "Jared Polis"
+      },
+      "senators": [
+        {
+          "name": "Michael F. Bennet"
+        },
+        {
+          "name": "John W. Hickenlooper"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Diana DeGette",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Joe Neguse",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Jeff Hurd",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Lauren Boebert",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Jeff Crank",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Jason Crow",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Brittany Pettersen",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Gabe Evans",
+          "district": "8",
+          "title": "Representative"
+        }
+      ]
+    },
+    "CT": {
+      "name": "Connecticut",
+      "kind": "state",
+      "capital": "Hartford",
+      "capitalDistractors": [
+        "Bridgeport",
+        "New Haven",
+        "Stamford"
+      ],
+      "governor": {
+        "name": "Ned Lamont"
+      },
+      "senators": [
+        {
+          "name": "Richard Blumenthal"
+        },
+        {
+          "name": "Christopher Murphy"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "John B. Larson",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Joe Courtney",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Rosa L. DeLauro",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "James A. Himes",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Jahana Hayes",
+          "district": "5",
+          "title": "Representative"
+        }
+      ]
+    },
+    "DE": {
+      "name": "Delaware",
+      "kind": "state",
+      "capital": "Dover",
+      "capitalDistractors": [
+        "Wilmington",
+        "Newark",
+        "Middletown"
+      ],
+      "governor": {
+        "name": "Matt Meyer"
+      },
+      "senators": [
+        {
+          "name": "Christopher A. Coons"
+        },
+        {
+          "name": "Lisa Blunt Rochester"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Sarah McBride",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "FL": {
+      "name": "Florida",
+      "kind": "state",
+      "capital": "Tallahassee",
+      "capitalDistractors": [
+        "Miami",
+        "Orlando",
+        "Jacksonville"
+      ],
+      "governor": {
+        "name": "Ron DeSantis"
+      },
+      "senators": [
+        {
+          "name": "Rick Scott"
+        },
+        {
+          "name": "Ashley Moody"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Jimmy Patronis",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Neal P. Dunn",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Kat Cammack",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Aaron Bean",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "John H. Rutherford",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Randy Fine",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Cory Mills",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Haridopolos",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Darren Soto",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Maxwell Frost",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Daniel Webster",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Gus M. Bilirakis",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Anna Paulina Luna",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Kathy Castor",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Laurel M. Lee",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "Vern Buchanan",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "W. Gregory Steube",
+          "district": "17",
+          "title": "Representative"
+        },
+        {
+          "name": "Scott Franklin",
+          "district": "18",
+          "title": "Representative"
+        },
+        {
+          "name": "Byron Donalds",
+          "district": "19",
+          "title": "Representative"
+        },
+        {
+          "name": "Brian J. Mast",
+          "district": "21",
+          "title": "Representative"
+        },
+        {
+          "name": "Lois Frankel",
+          "district": "22",
+          "title": "Representative"
+        },
+        {
+          "name": "Jared Moskowitz",
+          "district": "23",
+          "title": "Representative"
+        },
+        {
+          "name": "Frederica S. Wilson",
+          "district": "24",
+          "title": "Representative"
+        },
+        {
+          "name": "Debbie Wasserman Schultz",
+          "district": "25",
+          "title": "Representative"
+        },
+        {
+          "name": "Mario Diaz-Balart",
+          "district": "26",
+          "title": "Representative"
+        },
+        {
+          "name": "Maria Elvira Salazar",
+          "district": "27",
+          "title": "Representative"
+        },
+        {
+          "name": "Carlos A. Gimenez",
+          "district": "28",
+          "title": "Representative"
+        }
+      ]
+    },
+    "GA": {
+      "name": "Georgia",
+      "kind": "state",
+      "capital": "Atlanta",
+      "capitalDistractors": [
+        "Savannah",
+        "Augusta",
+        "Macon"
+      ],
+      "governor": {
+        "name": "Brian Kemp"
+      },
+      "senators": [
+        {
+          "name": "Jon Ossoff"
+        },
+        {
+          "name": "Raphael G. Warnock"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Earl L. \"Buddy\" Carter",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Sanford D. Bishop, Jr.",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Brian Jack",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Henry C. \"Hank\" Johnson, Jr.",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Nikema Williams",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Lucy McBath",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Richard McCormick",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Austin Scott",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Andrew S. Clyde",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Collins",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Barry Loudermilk",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Rick W. Allen",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Everton Blair Jr.",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Clay Fuller",
+          "district": "14",
+          "title": "Representative"
+        }
+      ]
+    },
+    "HI": {
+      "name": "Hawaii",
+      "kind": "state",
+      "capital": "Honolulu",
+      "capitalDistractors": [
+        "Hilo",
+        "Kailua",
+        "Pearl City"
+      ],
+      "governor": {
+        "name": "Josh Green"
+      },
+      "senators": [
+        {
+          "name": "Mazie K. Hirono"
+        },
+        {
+          "name": "Brian Schatz"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Ed Case",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Jill N. Tokuda",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "ID": {
+      "name": "Idaho",
+      "kind": "state",
+      "capital": "Boise",
+      "capitalDistractors": [
+        "Idaho Falls",
+        "Pocatello",
+        "Coeur d'Alene"
+      ],
+      "governor": {
+        "name": "Brad Little"
+      },
+      "senators": [
+        {
+          "name": "James E. Risch"
+        },
+        {
+          "name": "Mike Crapo"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Russ Fulcher",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael K. Simpson",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "IL": {
+      "name": "Illinois",
+      "kind": "state",
+      "capital": "Springfield",
+      "capitalDistractors": [
+        "Chicago",
+        "Peoria",
+        "Rockford"
+      ],
+      "governor": {
+        "name": "JB Pritzker"
+      },
+      "senators": [
+        {
+          "name": "Richard J. Durbin"
+        },
+        {
+          "name": "Tammy Duckworth"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Jonathan L. Jackson",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Robin L. Kelly",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Delia C. Ramirez",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Jesús G. \"Chuy\" García",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Quigley",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Sean Casten",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Danny K. Davis",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Raja Krishnamoorthi",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Janice D. Schakowsky",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Bradley Scott Schneider",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Bill Foster",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Bost",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Nikki Budzinski",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Lauren Underwood",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Mary E. Miller",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "Darin LaHood",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "Eric Sorensen",
+          "district": "17",
+          "title": "Representative"
+        }
+      ]
+    },
+    "IN": {
+      "name": "Indiana",
+      "kind": "state",
+      "capital": "Indianapolis",
+      "capitalDistractors": [
+        "Fort Wayne",
+        "Evansville",
+        "South Bend"
+      ],
+      "governor": {
+        "name": "Mike Braun"
+      },
+      "senators": [
+        {
+          "name": "Todd Young"
+        },
+        {
+          "name": "Jim Banks"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Frank J. Mrvan",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Rudy Yakym III",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Marlin A. Stutzman",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "James R. Baird",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Victoria Spartz",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Jefferson Shreve",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "André Carson",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark B. Messmer",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Erin Houchin",
+          "district": "9",
+          "title": "Representative"
+        }
+      ]
+    },
+    "IA": {
+      "name": "Iowa",
+      "kind": "state",
+      "capital": "Des Moines",
+      "capitalDistractors": [
+        "Cedar Rapids",
+        "Davenport",
+        "Iowa City"
+      ],
+      "governor": {
+        "name": "Kim Reynolds"
+      },
+      "senators": [
+        {
+          "name": "Chuck Grassley"
+        },
+        {
+          "name": "Joni Ernst"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Mariannette Miller-Meeks",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Ashley Hinson",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Zachary Nunn",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Randy Feenstra",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "KS": {
+      "name": "Kansas",
+      "kind": "state",
+      "capital": "Topeka",
+      "capitalDistractors": [
+        "Wichita",
+        "Kansas City",
+        "Overland Park"
+      ],
+      "governor": {
+        "name": "Laura Kelly"
+      },
+      "senators": [
+        {
+          "name": "Jerry Moran"
+        },
+        {
+          "name": "Roger Marshall"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Tracey Mann",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Derek Schmidt",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Sharice Davids",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Ron Estes",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "KY": {
+      "name": "Kentucky",
+      "kind": "state",
+      "capital": "Frankfort",
+      "capitalDistractors": [
+        "Louisville",
+        "Lexington",
+        "Bowling Green"
+      ],
+      "governor": {
+        "name": "Andy Beshear"
+      },
+      "senators": [
+        {
+          "name": "Mitch McConnell"
+        },
+        {
+          "name": "Rand Paul"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "James Comer",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Brett Guthrie",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Morgan McGarvey",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Thomas Massie",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Harold Rogers",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Andy Barr",
+          "district": "6",
+          "title": "Representative"
+        }
+      ]
+    },
+    "LA": {
+      "name": "Louisiana",
+      "kind": "state",
+      "capital": "Baton Rouge",
+      "capitalDistractors": [
+        "New Orleans",
+        "Shreveport",
+        "Lafayette"
+      ],
+      "governor": {
+        "name": "Jeff Landry"
+      },
+      "senators": [
+        {
+          "name": "Bill Cassidy"
+        },
+        {
+          "name": "John Kennedy"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Steve Scalise",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Troy A. Carter",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Clay Higgins",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Johnson",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Julia Letlow",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Cleo Fields",
+          "district": "6",
+          "title": "Representative"
+        }
+      ]
+    },
+    "ME": {
+      "name": "Maine",
+      "kind": "state",
+      "capital": "Augusta",
+      "capitalDistractors": [
+        "Portland",
+        "Bangor",
+        "Lewiston"
+      ],
+      "governor": {
+        "name": "Janet Mills"
+      },
+      "senators": [
+        {
+          "name": "Susan M. Collins"
+        },
+        {
+          "name": "Angus S. King, Jr."
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Chellie Pingree",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Jared F. Golden",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MD": {
+      "name": "Maryland",
+      "kind": "state",
+      "capital": "Annapolis",
+      "capitalDistractors": [
+        "Baltimore",
+        "Frederick",
+        "Rockville"
+      ],
+      "governor": {
+        "name": "Wes Moore"
+      },
+      "senators": [
+        {
+          "name": "Chris Van Hollen"
+        },
+        {
+          "name": "Angela D. Alsobrooks"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Andy Harris",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Johnny Olszewski, Jr.",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Sarah Elfreth",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Glenn Ivey",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Steny H. Hoyer",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "April McClain Delaney",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Kweisi Mfume",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Jamie Raskin",
+          "district": "8",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "kind": "state",
+      "capital": "Boston",
+      "capitalDistractors": [
+        "Worcester",
+        "Springfield",
+        "Cambridge"
+      ],
+      "governor": {
+        "name": "Maura Healey"
+      },
+      "senators": [
+        {
+          "name": "Edward J. Markey"
+        },
+        {
+          "name": "Elizabeth Warren"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Richard E. Neal",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "James P. McGovern",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Lori Trahan",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Jake Auchincloss",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Katherine M. Clark",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Seth Moulton",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Ayanna Pressley",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Stephen F. Lynch",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "William R. Keating",
+          "district": "9",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MI": {
+      "name": "Michigan",
+      "kind": "state",
+      "capital": "Lansing",
+      "capitalDistractors": [
+        "Detroit",
+        "Grand Rapids",
+        "Ann Arbor"
+      ],
+      "governor": {
+        "name": "Gretchen Whitmer"
+      },
+      "senators": [
+        {
+          "name": "Gary C. Peters"
+        },
+        {
+          "name": "Elissa Slotkin"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Jack Bergman",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "John R. Moolenaar",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Hillary J. Scholten",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Bill Huizenga",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Tim Walberg",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Debbie Dingell",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Tom Barrett",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Kristen McDonald Rivet",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Lisa C. McClain",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "John James",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Haley M. Stevens",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Rashida Tlaib",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Shri Thanedar",
+          "district": "13",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MN": {
+      "name": "Minnesota",
+      "kind": "state",
+      "capital": "Saint Paul",
+      "capitalDistractors": [
+        "Minneapolis",
+        "Duluth",
+        "Rochester"
+      ],
+      "governor": {
+        "name": "Tim Walz"
+      },
+      "senators": [
+        {
+          "name": "Amy Klobuchar"
+        },
+        {
+          "name": "Tina Smith"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Brad Finstad",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Angie Craig",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Kelly Morrison",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Betty McCollum",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Ilhan Omar",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Tom Emmer",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Michelle Fischbach",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Pete Stauber",
+          "district": "8",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MS": {
+      "name": "Mississippi",
+      "kind": "state",
+      "capital": "Jackson",
+      "capitalDistractors": [
+        "Biloxi",
+        "Gulfport",
+        "Hattiesburg"
+      ],
+      "governor": {
+        "name": "Tate Reeves"
+      },
+      "senators": [
+        {
+          "name": "Roger F. Wicker"
+        },
+        {
+          "name": "Cindy Hyde-Smith"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Trent Kelly",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Bennie G. Thompson",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael Guest",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Ezell",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MO": {
+      "name": "Missouri",
+      "kind": "state",
+      "capital": "Jefferson City",
+      "capitalDistractors": [
+        "Kansas City",
+        "St. Louis",
+        "Springfield"
+      ],
+      "governor": {
+        "name": "Mike Kehoe"
+      },
+      "senators": [
+        {
+          "name": "Josh Hawley"
+        },
+        {
+          "name": "Eric Schmitt"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Wesley Bell",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Ann Wagner",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert F. Onder, Jr.",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark Alford",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Emanuel Cleaver",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Sam Graves",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Eric Burlison",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Jason Smith",
+          "district": "8",
+          "title": "Representative"
+        }
+      ]
+    },
+    "MT": {
+      "name": "Montana",
+      "kind": "state",
+      "capital": "Helena",
+      "capitalDistractors": [
+        "Billings",
+        "Missoula",
+        "Bozeman"
+      ],
+      "governor": {
+        "name": "Greg Gianforte"
+      },
+      "senators": [
+        {
+          "name": "Steve Daines"
+        },
+        {
+          "name": "Tim Sheehy"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Ryan K. Zinke",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Troy Downing",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NE": {
+      "name": "Nebraska",
+      "kind": "state",
+      "capital": "Lincoln",
+      "capitalDistractors": [
+        "Omaha",
+        "Grand Island",
+        "Kearney"
+      ],
+      "governor": {
+        "name": "Jim Pillen"
+      },
+      "senators": [
+        {
+          "name": "Deb Fischer"
+        },
+        {
+          "name": "Pete Ricketts"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Mike Flood",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Don Bacon",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Adrian Smith",
+          "district": "3",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NV": {
+      "name": "Nevada",
+      "kind": "state",
+      "capital": "Carson City",
+      "capitalDistractors": [
+        "Las Vegas",
+        "Reno",
+        "Henderson"
+      ],
+      "governor": {
+        "name": "Joe Lombardo"
+      },
+      "senators": [
+        {
+          "name": "Catherine Cortez Masto"
+        },
+        {
+          "name": "Jacky Rosen"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Dina Titus",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark E. Amodei",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Susie Lee",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Steven Horsford",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "kind": "state",
+      "capital": "Concord",
+      "capitalDistractors": [
+        "Manchester",
+        "Nashua",
+        "Portsmouth"
+      ],
+      "governor": {
+        "name": "Kelly Ayotte"
+      },
+      "senators": [
+        {
+          "name": "Jeanne Shaheen"
+        },
+        {
+          "name": "Margaret Wood Hassan"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Chris Pappas",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Maggie Goodlander",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "kind": "state",
+      "capital": "Trenton",
+      "capitalDistractors": [
+        "Newark",
+        "Jersey City",
+        "Atlantic City"
+      ],
+      "governor": {
+        "name": "Mikie Sherrill"
+      },
+      "senators": [
+        {
+          "name": "Cory A. Booker"
+        },
+        {
+          "name": "Andy Kim"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Donald Norcross",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Jefferson Van Drew",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Herbert C. Conaway, Jr.",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Christopher H. Smith",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Josh Gottheimer",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Frank Pallone, Jr.",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Thomas H. Kean, Jr.",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert Menendez",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Nellie Pou",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "LaMonica McIver",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Analilia Mejia",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Bonnie Watson Coleman",
+          "district": "12",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NM": {
+      "name": "New Mexico",
+      "kind": "state",
+      "capital": "Santa Fe",
+      "capitalDistractors": [
+        "Albuquerque",
+        "Las Cruces",
+        "Roswell"
+      ],
+      "governor": {
+        "name": "Michelle Lujan Grisham"
+      },
+      "senators": [
+        {
+          "name": "Martin Heinrich"
+        },
+        {
+          "name": "Ben Ray Luján"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Melanie A. Stansbury",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Gabe Vasquez",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Teresa Leger Fernandez",
+          "district": "3",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NY": {
+      "name": "New York",
+      "kind": "state",
+      "capital": "Albany",
+      "capitalDistractors": [
+        "New York City",
+        "Buffalo",
+        "Rochester"
+      ],
+      "governor": {
+        "name": "Kathy Hochul"
+      },
+      "senators": [
+        {
+          "name": "Kirsten E. Gillibrand"
+        },
+        {
+          "name": "Charles E. Schumer"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Nick LaLota",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Andrew R. Garbarino",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Thomas R. Suozzi",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Laura Gillen",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Gregory W. Meeks",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Grace Meng",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Nydia M. Velázquez",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Hakeem S. Jeffries",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Yvette D. Clarke",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Daniel S. Goldman",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Nicole Malliotakis",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Jerrold Nadler",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Adriano Espaillat",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Alexandria Ocasio-Cortez",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Ritchie Torres",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "George Latimer",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael Lawler",
+          "district": "17",
+          "title": "Representative"
+        },
+        {
+          "name": "Patrick Ryan",
+          "district": "18",
+          "title": "Representative"
+        },
+        {
+          "name": "Josh Riley",
+          "district": "19",
+          "title": "Representative"
+        },
+        {
+          "name": "Paul Tonko",
+          "district": "20",
+          "title": "Representative"
+        },
+        {
+          "name": "Elise M. Stefanik",
+          "district": "21",
+          "title": "Representative"
+        },
+        {
+          "name": "John W. Mannion",
+          "district": "22",
+          "title": "Representative"
+        },
+        {
+          "name": "Nicholas A. Langworthy",
+          "district": "23",
+          "title": "Representative"
+        },
+        {
+          "name": "Claudia Tenney",
+          "district": "24",
+          "title": "Representative"
+        },
+        {
+          "name": "Joseph D. Morelle",
+          "district": "25",
+          "title": "Representative"
+        },
+        {
+          "name": "Timothy M. Kennedy",
+          "district": "26",
+          "title": "Representative"
+        }
+      ]
+    },
+    "NC": {
+      "name": "North Carolina",
+      "kind": "state",
+      "capital": "Raleigh",
+      "capitalDistractors": [
+        "Charlotte",
+        "Greensboro",
+        "Durham"
+      ],
+      "governor": {
+        "name": "Josh Stein"
+      },
+      "senators": [
+        {
+          "name": "Thom Tillis"
+        },
+        {
+          "name": "Ted Budd"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Donald G. Davis",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Deborah K. Ross",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Gregory F. Murphy",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Valerie P. Foushee",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Virginia Foxx",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Addison P. McDowell",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "David Rouzer",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark Harris",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Richard Hudson",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Pat Harrigan",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Chuck Edwards",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Alma S. Adams",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Brad Knott",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Tim Moore",
+          "district": "14",
+          "title": "Representative"
+        }
+      ]
+    },
+    "ND": {
+      "name": "North Dakota",
+      "kind": "state",
+      "capital": "Bismarck",
+      "capitalDistractors": [
+        "Fargo",
+        "Grand Forks",
+        "Minot"
+      ],
+      "governor": {
+        "name": "Kelly Armstrong"
+      },
+      "senators": [
+        {
+          "name": "John Hoeven"
+        },
+        {
+          "name": "Kevin Cramer"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Julie Fedorchak",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "OH": {
+      "name": "Ohio",
+      "kind": "state",
+      "capital": "Columbus",
+      "capitalDistractors": [
+        "Cleveland",
+        "Cincinnati",
+        "Toledo"
+      ],
+      "governor": {
+        "name": "Mike DeWine"
+      },
+      "senators": [
+        {
+          "name": "Bernie Moreno"
+        },
+        {
+          "name": "Jon Husted"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Greg Landsman",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "David J. Taylor",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Joyce Beatty",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Jim Jordan",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert E. Latta",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Max L. Miller",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Warren Davidson",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Marcy Kaptur",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael R. Turner",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Shontel M. Brown",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Troy Balderson",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Emilia Strong Sykes",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "David P. Joyce",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Carey",
+          "district": "15",
+          "title": "Representative"
+        }
+      ]
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "kind": "state",
+      "capital": "Oklahoma City",
+      "capitalDistractors": [
+        "Tulsa",
+        "Norman",
+        "Lawton"
+      ],
+      "governor": {
+        "name": "Kevin Stitt"
+      },
+      "senators": [
+        {
+          "name": "James Lankford"
+        },
+        {
+          "name": "Alan Armstrong"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Kevin Hern",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Josh Brecheen",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Frank D. Lucas",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Tom Cole",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Stephanie I. Bice",
+          "district": "5",
+          "title": "Representative"
+        }
+      ]
+    },
+    "OR": {
+      "name": "Oregon",
+      "kind": "state",
+      "capital": "Salem",
+      "capitalDistractors": [
+        "Portland",
+        "Eugene",
+        "Bend"
+      ],
+      "governor": {
+        "name": "Tina Kotek"
+      },
+      "senators": [
+        {
+          "name": "Jeff Merkley"
+        },
+        {
+          "name": "Ron Wyden"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Suzanne Bonamici",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Cliff Bentz",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Maxine Dexter",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Val T. Hoyle",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Janelle S. Bynum",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Andrea Salinas",
+          "district": "6",
+          "title": "Representative"
+        }
+      ]
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "kind": "state",
+      "capital": "Harrisburg",
+      "capitalDistractors": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Allentown"
+      ],
+      "governor": {
+        "name": "Josh Shapiro"
+      },
+      "senators": [
+        {
+          "name": "John Fetterman"
+        },
+        {
+          "name": "David McCormick"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Brian K. Fitzpatrick",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Brendan F. Boyle",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Dwight Evans",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Madeleine Dean",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Mary Gay Scanlon",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Chrissy Houlahan",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Ryan Mackenzie",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert P. Bresnahan, Jr.",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Daniel Meuser",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Scott Perry",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "Lloyd Smucker",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Summer L. Lee",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "John Joyce",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Guy Reschenthaler",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Glenn Thompson",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Kelly",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "Christopher R. Deluzio",
+          "district": "17",
+          "title": "Representative"
+        }
+      ]
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "kind": "state",
+      "capital": "Providence",
+      "capitalDistractors": [
+        "Newport",
+        "Warwick",
+        "Cranston"
+      ],
+      "governor": {
+        "name": "Dan McKee"
+      },
+      "senators": [
+        {
+          "name": "Sheldon Whitehouse"
+        },
+        {
+          "name": "Jack Reed"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Gabe Amo",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Seth Magaziner",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "SC": {
+      "name": "South Carolina",
+      "kind": "state",
+      "capital": "Columbia",
+      "capitalDistractors": [
+        "Charleston",
+        "Greenville",
+        "Myrtle Beach"
+      ],
+      "governor": {
+        "name": "Henry McMaster"
+      },
+      "senators": [
+        {
+          "name": "Tim Scott"
+        },
+        {
+          "name": "Darline Graham"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Nancy Mace",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Joe Wilson",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Sheri Biggs",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "William R. Timmons IV",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Ralph Norman",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "James E. Clyburn",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Russell Fry",
+          "district": "7",
+          "title": "Representative"
+        }
+      ]
+    },
+    "SD": {
+      "name": "South Dakota",
+      "kind": "state",
+      "capital": "Pierre",
+      "capitalDistractors": [
+        "Sioux Falls",
+        "Rapid City",
+        "Aberdeen"
+      ],
+      "governor": {
+        "name": "Larry Rhoden"
+      },
+      "senators": [
+        {
+          "name": "John Thune"
+        },
+        {
+          "name": "Mike Rounds"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Dusty Johnson",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "TN": {
+      "name": "Tennessee",
+      "kind": "state",
+      "capital": "Nashville",
+      "capitalDistractors": [
+        "Memphis",
+        "Knoxville",
+        "Chattanooga"
+      ],
+      "governor": {
+        "name": "Bill Lee"
+      },
+      "senators": [
+        {
+          "name": "Marsha Blackburn"
+        },
+        {
+          "name": "Bill Hagerty"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Diana Harshbarger",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Tim Burchett",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Charles J. \"Chuck\" Fleischmann",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Scott DesJarlais",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Andrew Ogles",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "John W. Rose",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Matt Van Epps",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "David Kustoff",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Steve Cohen",
+          "district": "9",
+          "title": "Representative"
+        }
+      ]
+    },
+    "TX": {
+      "name": "Texas",
+      "kind": "state",
+      "capital": "Austin",
+      "capitalDistractors": [
+        "Houston",
+        "Dallas",
+        "San Antonio"
+      ],
+      "governor": {
+        "name": "Greg Abbott"
+      },
+      "senators": [
+        {
+          "name": "John Cornyn"
+        },
+        {
+          "name": "Ted Cruz"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Nathaniel Moran",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Dan Crenshaw",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Keith Self",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Pat Fallon",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Lance Gooden",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Jake Ellzey",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Lizzie Fletcher",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Morgan Luttrell",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Al Green",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael T. McCaul",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "August Pfluger",
+          "district": "11",
+          "title": "Representative"
+        },
+        {
+          "name": "Craig A. Goldman",
+          "district": "12",
+          "title": "Representative"
+        },
+        {
+          "name": "Ronny Jackson",
+          "district": "13",
+          "title": "Representative"
+        },
+        {
+          "name": "Randy K. Weber, Sr.",
+          "district": "14",
+          "title": "Representative"
+        },
+        {
+          "name": "Monica De La Cruz",
+          "district": "15",
+          "title": "Representative"
+        },
+        {
+          "name": "Veronica Escobar",
+          "district": "16",
+          "title": "Representative"
+        },
+        {
+          "name": "Pete Sessions",
+          "district": "17",
+          "title": "Representative"
+        },
+        {
+          "name": "Christian D. Menefee",
+          "district": "18",
+          "title": "Representative"
+        },
+        {
+          "name": "Jodey C. Arrington",
+          "district": "19",
+          "title": "Representative"
+        },
+        {
+          "name": "Joaquin Castro",
+          "district": "20",
+          "title": "Representative"
+        },
+        {
+          "name": "Chip Roy",
+          "district": "21",
+          "title": "Representative"
+        },
+        {
+          "name": "Troy E. Nehls",
+          "district": "22",
+          "title": "Representative"
+        },
+        {
+          "name": "Beth Van Duyne",
+          "district": "24",
+          "title": "Representative"
+        },
+        {
+          "name": "Roger Williams",
+          "district": "25",
+          "title": "Representative"
+        },
+        {
+          "name": "Brandon Gill",
+          "district": "26",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael Cloud",
+          "district": "27",
+          "title": "Representative"
+        },
+        {
+          "name": "Henry Cuellar",
+          "district": "28",
+          "title": "Representative"
+        },
+        {
+          "name": "Sylvia R. Garcia",
+          "district": "29",
+          "title": "Representative"
+        },
+        {
+          "name": "Jasmine Crockett",
+          "district": "30",
+          "title": "Representative"
+        },
+        {
+          "name": "John R. Carter",
+          "district": "31",
+          "title": "Representative"
+        },
+        {
+          "name": "Julie Johnson",
+          "district": "32",
+          "title": "Representative"
+        },
+        {
+          "name": "Marc A. Veasey",
+          "district": "33",
+          "title": "Representative"
+        },
+        {
+          "name": "Vicente Gonzalez",
+          "district": "34",
+          "title": "Representative"
+        },
+        {
+          "name": "Greg Casar",
+          "district": "35",
+          "title": "Representative"
+        },
+        {
+          "name": "Brian Babin",
+          "district": "36",
+          "title": "Representative"
+        },
+        {
+          "name": "Lloyd Doggett",
+          "district": "37",
+          "title": "Representative"
+        },
+        {
+          "name": "Wesley Hunt",
+          "district": "38",
+          "title": "Representative"
+        }
+      ]
+    },
+    "UT": {
+      "name": "Utah",
+      "kind": "state",
+      "capital": "Salt Lake City",
+      "capitalDistractors": [
+        "Provo",
+        "Ogden",
+        "St. George"
+      ],
+      "governor": {
+        "name": "Spencer Cox"
+      },
+      "senators": [
+        {
+          "name": "Mike Lee"
+        },
+        {
+          "name": "John R. Curtis"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Blake D. Moore",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Celeste Maloy",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Mike Kennedy",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Burgess Owens",
+          "district": "4",
+          "title": "Representative"
+        }
+      ]
+    },
+    "VT": {
+      "name": "Vermont",
+      "kind": "state",
+      "capital": "Montpelier",
+      "capitalDistractors": [
+        "Burlington",
+        "Rutland",
+        "Brattleboro"
+      ],
+      "governor": {
+        "name": "Phil Scott"
+      },
+      "senators": [
+        {
+          "name": "Bernard Sanders"
+        },
+        {
+          "name": "Peter Welch"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Becca Balint",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "VA": {
+      "name": "Virginia",
+      "kind": "state",
+      "capital": "Richmond",
+      "capitalDistractors": [
+        "Virginia Beach",
+        "Norfolk",
+        "Arlington"
+      ],
+      "governor": {
+        "name": "Abigail Spanberger"
+      },
+      "senators": [
+        {
+          "name": "Mark R. Warner"
+        },
+        {
+          "name": "Tim Kaine"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Robert J. Wittman",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Jennifer A. Kiggans",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Robert C. \"Bobby\" Scott",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Jennifer L. McClellan",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "John J. McGuire III",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Ben Cline",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Eugene Simon Vindman",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Donald S. Beyer, Jr.",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "H. Morgan Griffith",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Suhas Subramanyam",
+          "district": "10",
+          "title": "Representative"
+        },
+        {
+          "name": "James R. Walkinshaw",
+          "district": "11",
+          "title": "Representative"
+        }
+      ]
+    },
+    "WA": {
+      "name": "Washington",
+      "kind": "state",
+      "capital": "Olympia",
+      "capitalDistractors": [
+        "Seattle",
+        "Spokane",
+        "Tacoma"
+      ],
+      "governor": {
+        "name": "Bob Ferguson"
+      },
+      "senators": [
+        {
+          "name": "Maria Cantwell"
+        },
+        {
+          "name": "Patty Murray"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Suzan K. DelBene",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Rick Larsen",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Marie Gluesenkamp Perez",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Dan Newhouse",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Michael Baumgartner",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Emily Randall",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Pramila Jayapal",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Kim Schrier",
+          "district": "8",
+          "title": "Representative"
+        },
+        {
+          "name": "Adam Smith",
+          "district": "9",
+          "title": "Representative"
+        },
+        {
+          "name": "Marilyn Strickland",
+          "district": "10",
+          "title": "Representative"
+        }
+      ]
+    },
+    "WV": {
+      "name": "West Virginia",
+      "kind": "state",
+      "capital": "Charleston",
+      "capitalDistractors": [
+        "Huntington",
+        "Morgantown",
+        "Wheeling"
+      ],
+      "governor": {
+        "name": "Patrick Morrisey"
+      },
+      "senators": [
+        {
+          "name": "Shelley Moore Capito"
+        },
+        {
+          "name": "James C. Justice"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Carol D. Miller",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Riley M. Moore",
+          "district": "2",
+          "title": "Representative"
+        }
+      ]
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "kind": "state",
+      "capital": "Madison",
+      "capitalDistractors": [
+        "Milwaukee",
+        "Green Bay",
+        "Kenosha"
+      ],
+      "governor": {
+        "name": "Tony Evers"
+      },
+      "senators": [
+        {
+          "name": "Tammy Baldwin"
+        },
+        {
+          "name": "Ron Johnson"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Bryan Steil",
+          "district": "1",
+          "title": "Representative"
+        },
+        {
+          "name": "Mark Pocan",
+          "district": "2",
+          "title": "Representative"
+        },
+        {
+          "name": "Derrick Van Orden",
+          "district": "3",
+          "title": "Representative"
+        },
+        {
+          "name": "Gwen Moore",
+          "district": "4",
+          "title": "Representative"
+        },
+        {
+          "name": "Scott Fitzgerald",
+          "district": "5",
+          "title": "Representative"
+        },
+        {
+          "name": "Glenn Grothman",
+          "district": "6",
+          "title": "Representative"
+        },
+        {
+          "name": "Thomas P. Tiffany",
+          "district": "7",
+          "title": "Representative"
+        },
+        {
+          "name": "Tony Wied",
+          "district": "8",
+          "title": "Representative"
+        }
+      ]
+    },
+    "WY": {
+      "name": "Wyoming",
+      "kind": "state",
+      "capital": "Cheyenne",
+      "capitalDistractors": [
+        "Casper",
+        "Laramie",
+        "Jackson"
+      ],
+      "governor": {
+        "name": "Mark Gordon"
+      },
+      "senators": [
+        {
+          "name": "John Barrasso"
+        },
+        {
+          "name": "Cynthia M. Lummis"
+        }
+      ],
+      "houseMembers": [
+        {
+          "name": "Harriet M. Hageman",
+          "district": "At large",
+          "title": "Representative"
+        }
+      ]
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "kind": "district",
+      "capital": null,
+      "capitalDistractors": [],
+      "governor": null,
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "Eleanor Holmes Norton",
+          "district": "At large",
+          "title": "Delegate"
+        }
+      ]
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "kind": "territory",
+      "capital": "San Juan",
+      "capitalDistractors": [
+        "Ponce",
+        "Mayagüez",
+        "Bayamón"
+      ],
+      "governor": {
+        "name": "Jenniffer González-Colón"
+      },
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "Pablo José Hernández",
+          "district": "At large",
+          "title": "Resident Commissioner"
+        }
+      ]
+    },
+    "GU": {
+      "name": "Guam",
+      "kind": "territory",
+      "capital": "Hagåtña",
+      "capitalDistractors": [
+        "Dededo",
+        "Tamuning",
+        "Yigo"
+      ],
+      "governor": {
+        "name": "Lou Leon Guerrero"
+      },
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "James C. Moylan",
+          "district": "At large",
+          "title": "Delegate"
+        }
+      ]
+    },
+    "VI": {
+      "name": "U.S. Virgin Islands",
+      "kind": "territory",
+      "capital": "Charlotte Amalie",
+      "capitalDistractors": [
+        "Christiansted",
+        "Frederiksted",
+        "Cruz Bay"
+      ],
+      "governor": {
+        "name": "Albert Bryan"
+      },
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "Stacey E. Plaskett",
+          "district": "At large",
+          "title": "Delegate"
+        }
+      ]
+    },
+    "AS": {
+      "name": "American Samoa",
+      "kind": "territory",
+      "capital": "Pago Pago",
+      "capitalDistractors": [
+        "Tafuna",
+        "Leone",
+        "Vailoatai"
+      ],
+      "governor": {
+        "name": "Pula’ali’i Nikolao Pula"
+      },
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "Aumua Amata Coleman Radewagen",
+          "district": "At large",
+          "title": "Delegate"
+        }
+      ]
+    },
+    "MP": {
+      "name": "Northern Mariana Islands",
+      "kind": "territory",
+      "capital": "Saipan",
+      "capitalDistractors": [
+        "Tinian",
+        "Rota",
+        "Pagan"
+      ],
+      "governor": {
+        "name": "David M. Apatang"
+      },
+      "senators": [],
+      "houseMembers": [
+        {
+          "name": "Kimberlyn King-Hinds",
+          "district": "At large",
+          "title": "Delegate"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "USCIS, Civics Test Updates",
+      "url": "https://www.uscis.gov/citizenship/testupdates"
+    },
+    {
+      "title": "The White House, Administration",
+      "url": "https://www.whitehouse.gov/administration/"
+    },
+    {
+      "title": "U.S. House of Representatives, Leadership",
+      "url": "https://www.house.gov/leadership"
+    },
+    {
+      "title": "Supreme Court of the United States, Justices",
+      "url": "https://www.supremecourt.gov/about/biographies.aspx"
+    },
+    {
+      "title": "National Governors Association, Governors",
+      "url": "https://www.nga.org/governors/"
+    },
+    {
+      "title": "unitedstates/congress-legislators (public domain)",
+      "url": "https://github.com/unitedstates/congress-legislators"
+    }
+  ],
+  "notices": [
+    {
+      "date": "2027-01-03",
+      "keys": [
+        "speakerOfTheHouse",
+        "senator",
+        "representative"
+      ],
+      "text": "A new Congress starts on January 3, 2027. The Speaker of the House and some senators and representatives may change. If your interview is on or after that date, give the name of the person serving on your interview day. Check uscis.gov/citizenship/testupdates."
+    },
+    {
+      "date": "2027-01-01",
+      "keys": [
+        "governor"
+      ],
+      "text": "Many states elected a governor in November 2026. New governors take office in January 2027. If your interview is in January 2027 or later, give the name of the governor serving on your interview day."
+    }
+  ]
+}

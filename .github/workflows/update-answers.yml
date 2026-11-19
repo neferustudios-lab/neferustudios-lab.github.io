@@ -1,0 +1,49 @@
+# Weekly refresh of the Civics Mentor answers file (officeholders), with no app release.
+# 1. Downloads current members of Congress and governors.
+# 2. Checks President, Vice President, Speaker, and Chief Justice against official sources.
+#    If one changed, the run fails and GitHub emails the repository owner. Nothing is published.
+# 3. Builds and checks the file. Commits it only when it passes every check.
+name: Update answers
+
+on:
+  schedule:
+    - cron: '17 14 * * 1' # Mondays 14:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-answers
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Download current officeholders
+        run: npm run fetch
+      - name: Check federal officeholders against official sources
+        run: npm run check
+      - name: Build the answers file
+        run: npm run update
+      - name: Validate
+        run: npm run validate
+      - name: Publish
+        run: |
+          if git diff --quiet -- answers/v1/answers.json; then
+            echo "No change to publish."
+            exit 0
+          fi
+          git config user.name "civics-mentor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add answers/v1/answers.json tools/input/legislators.json tools/input/governors.json
+          git commit -F tools/last-summary.txt
+          git push

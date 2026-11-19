@@ -1,0 +1,29 @@
+# Federal officeholders. The weekly job (tools/update.ts) checks President, Vice President,
+# Speaker, and Chief Justice against official sources. If one differs, the job stops and GitHub
+# emails the repository owner. Then update the name and distractors here (see README).
+# Distractor rule (DECISIONS 9): the most recent former holders of the same office.
+# Party distractor rule (DECISIONS 20): the other major party plus two past parties.
+president:
+  name: Donald J. Trump
+  verifiedAt: https://www.whitehouse.gov/administration/
+  distractors: [Joe Biden, Barack Obama, George W. Bush]
+vicePresident:
+  name: JD Vance
+  verifiedAt: https://www.whitehouse.gov/administration/
+  distractors: [Kamala Harris, Mike Pence, Joe Biden]
+speakerOfTheHouse:
+  name: Mike Johnson
+  verifiedAt: https://www.house.gov/leadership
+  distractors: [Kevin McCarthy, Nancy Pelosi, Paul Ryan]
+chiefJustice:
+  name: John G. Roberts, Jr.
+  verifiedAt: https://www.supremecourt.gov/about/biographies.aspx
+  distractors: [William H. Rehnquist, Warren E. Burger, Earl Warren]
+presidentParty:
+  name: Republican (Party)
+  verifiedAt: https://github.com/unitedstates/congress-legislators/blob/main/executive.yaml
+  distractors: [Democratic (Party), Whig (Party), Federalist (Party)]
+supremeCourtJusticeCount:
+  name: Nine (9)
+  verifiedAt: https://www.supremecourt.gov/about/biographies.aspx
+  distractors: [Seven (7), Twelve (12), Fifteen (15)]

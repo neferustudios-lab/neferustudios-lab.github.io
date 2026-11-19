@@ -1,0 +1,15 @@
+# Known upcoming changes. The app shows a notice on the matching questions when the user's
+# interview date is on or after "date" and the answers file was last checked before "date".
+# Remove an entry once it has passed and the answers are updated.
+- date: "2027-01-03"
+  keys: [speakerOfTheHouse, senator, representative]
+  text: >-
+    A new Congress starts on January 3, 2027. The Speaker of the House and some senators and
+    representatives may change. If your interview is on or after that date, give the name of the
+    person serving on your interview day. Check uscis.gov/citizenship/testupdates.
+- date: "2027-01-01"
+  keys: [governor]
+  text: >-
+    Many states elected a governor in November 2026. New governors take office in January 2027.
+    If your interview is in January 2027 or later, give the name of the governor serving on your
+    interview day.

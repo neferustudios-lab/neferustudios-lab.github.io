@@ -1,0 +1,17 @@
+{
+  "name": "civics-mentor-site",
+  "private": true,
+  "type": "module",
+  "description": "Public site for Civics Mentor: answers file, privacy policy, terms.",
+  "scripts": {
+    "fetch": "tsx tools/fetch.ts",
+    "check": "tsx tools/check-federal.ts",
+    "update": "tsx tools/update.ts",
+    "validate": "tsx tools/validate.ts"
+  },
+  "devDependencies": {
+    "js-yaml": "^5.5.0",
+    "tsx": "^4.23.15",
+    "zod": "^4.6.7"
+  }
+}

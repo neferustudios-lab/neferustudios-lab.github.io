@@ -1,0 +1,58 @@
+# Capitals and capital distractors (other well-known cities in the same state or territory).
+# kind: state | district | territory
+AL: { name: Alabama, kind: state, capital: Montgomery, capitalDistractors: [Birmingham, Huntsville, Mobile] }
+AK: { name: Alaska, kind: state, capital: Juneau, capitalDistractors: [Anchorage, Fairbanks, Sitka] }
+AZ: { name: Arizona, kind: state, capital: Phoenix, capitalDistractors: [Tucson, Mesa, Flagstaff] }
+AR: { name: Arkansas, kind: state, capital: Little Rock, capitalDistractors: [Fort Smith, Fayetteville, Jonesboro] }
+CA: { name: California, kind: state, capital: Sacramento, capitalDistractors: [Los Angeles, San Francisco, San Diego] }
+CO: { name: Colorado, kind: state, capital: Denver, capitalDistractors: [Colorado Springs, Boulder, Aurora] }
+CT: { name: Connecticut, kind: state, capital: Hartford, capitalDistractors: [Bridgeport, New Haven, Stamford] }
+DE: { name: Delaware, kind: state, capital: Dover, capitalDistractors: [Wilmington, Newark, Middletown] }
+FL: { name: Florida, kind: state, capital: Tallahassee, capitalDistractors: [Miami, Orlando, Jacksonville] }
+GA: { name: Georgia, kind: state, capital: Atlanta, capitalDistractors: [Savannah, Augusta, Macon] }
+HI: { name: Hawaii, kind: state, capital: Honolulu, capitalDistractors: [Hilo, Kailua, Pearl City] }
+ID: { name: Idaho, kind: state, capital: Boise, capitalDistractors: [Idaho Falls, Pocatello, "Coeur d'Alene"] }
+IL: { name: Illinois, kind: state, capital: Springfield, capitalDistractors: [Chicago, Peoria, Rockford] }
+IN: { name: Indiana, kind: state, capital: Indianapolis, capitalDistractors: [Fort Wayne, Evansville, South Bend] }
+IA: { name: Iowa, kind: state, capital: Des Moines, capitalDistractors: [Cedar Rapids, Davenport, Iowa City] }
+KS: { name: Kansas, kind: state, capital: Topeka, capitalDistractors: [Wichita, Kansas City, Overland Park] }
+KY: { name: Kentucky, kind: state, capital: Frankfort, capitalDistractors: [Louisville, Lexington, Bowling Green] }
+LA: { name: Louisiana, kind: state, capital: Baton Rouge, capitalDistractors: [New Orleans, Shreveport, Lafayette] }
+ME: { name: Maine, kind: state, capital: Augusta, capitalDistractors: [Portland, Bangor, Lewiston] }
+MD: { name: Maryland, kind: state, capital: Annapolis, capitalDistractors: [Baltimore, Frederick, Rockville] }
+MA: { name: Massachusetts, kind: state, capital: Boston, capitalDistractors: [Worcester, Springfield, Cambridge] }
+MI: { name: Michigan, kind: state, capital: Lansing, capitalDistractors: [Detroit, Grand Rapids, Ann Arbor] }
+MN: { name: Minnesota, kind: state, capital: Saint Paul, capitalDistractors: [Minneapolis, Duluth, Rochester] }
+MS: { name: Mississippi, kind: state, capital: Jackson, capitalDistractors: [Biloxi, Gulfport, Hattiesburg] }
+MO: { name: Missouri, kind: state, capital: Jefferson City, capitalDistractors: [Kansas City, St. Louis, Springfield] }
+MT: { name: Montana, kind: state, capital: Helena, capitalDistractors: [Billings, Missoula, Bozeman] }
+NE: { name: Nebraska, kind: state, capital: Lincoln, capitalDistractors: [Omaha, Grand Island, Kearney] }
+NV: { name: Nevada, kind: state, capital: Carson City, capitalDistractors: [Las Vegas, Reno, Henderson] }
+NH: { name: New Hampshire, kind: state, capital: Concord, capitalDistractors: [Manchester, Nashua, Portsmouth] }
+NJ: { name: New Jersey, kind: state, capital: Trenton, capitalDistractors: [Newark, Jersey City, Atlantic City] }
+NM: { name: New Mexico, kind: state, capital: Santa Fe, capitalDistractors: [Albuquerque, Las Cruces, Roswell] }
+NY: { name: New York, kind: state, capital: Albany, capitalDistractors: [New York City, Buffalo, Rochester] }
+NC: { name: North Carolina, kind: state, capital: Raleigh, capitalDistractors: [Charlotte, Greensboro, Durham] }
+ND: { name: North Dakota, kind: state, capital: Bismarck, capitalDistractors: [Fargo, Grand Forks, Minot] }
+OH: { name: Ohio, kind: state, capital: Columbus, capitalDistractors: [Cleveland, Cincinnati, Toledo] }
+OK: { name: Oklahoma, kind: state, capital: Oklahoma City, capitalDistractors: [Tulsa, Norman, Lawton] }
+OR: { name: Oregon, kind: state, capital: Salem, capitalDistractors: [Portland, Eugene, Bend] }
+PA: { name: Pennsylvania, kind: state, capital: Harrisburg, capitalDistractors: [Philadelphia, Pittsburgh, Allentown] }
+RI: { name: Rhode Island, kind: state, capital: Providence, capitalDistractors: [Newport, Warwick, Cranston] }
+SC: { name: South Carolina, kind: state, capital: Columbia, capitalDistractors: [Charleston, Greenville, Myrtle Beach] }
+SD: { name: South Dakota, kind: state, capital: Pierre, capitalDistractors: [Sioux Falls, Rapid City, Aberdeen] }
+TN: { name: Tennessee, kind: state, capital: Nashville, capitalDistractors: [Memphis, Knoxville, Chattanooga] }
+TX: { name: Texas, kind: state, capital: Austin, capitalDistractors: [Houston, Dallas, San Antonio] }
+UT: { name: Utah, kind: state, capital: Salt Lake City, capitalDistractors: [Provo, Ogden, St. George] }
+VT: { name: Vermont, kind: state, capital: Montpelier, capitalDistractors: [Burlington, Rutland, Brattleboro] }
+VA: { name: Virginia, kind: state, capital: Richmond, capitalDistractors: [Virginia Beach, Norfolk, Arlington] }
+WA: { name: Washington, kind: state, capital: Olympia, capitalDistractors: [Seattle, Spokane, Tacoma] }
+WV: { name: West Virginia, kind: state, capital: Charleston, capitalDistractors: [Huntington, Morgantown, Wheeling] }
+WI: { name: Wisconsin, kind: state, capital: Madison, capitalDistractors: [Milwaukee, Green Bay, Kenosha] }
+WY: { name: Wyoming, kind: state, capital: Cheyenne, capitalDistractors: [Casper, Laramie, Jackson] }
+DC: { name: District of Columbia, kind: district, capital: null, capitalDistractors: [] }
+PR: { name: Puerto Rico, kind: territory, capital: San Juan, capitalDistractors: [Ponce, Mayagüez, Bayamón] }
+GU: { name: Guam, kind: territory, capital: Hagåtña, capitalDistractors: [Dededo, Tamuning, Yigo] }
+VI: { name: U.S. Virgin Islands, kind: territory, capital: Charlotte Amalie, capitalDistractors: [Christiansted, Frederiksted, Cruz Bay] }
+AS: { name: American Samoa, kind: territory, capital: Pago Pago, capitalDistractors: [Tafuna, Leone, Vailoatai] }
+MP: { name: Northern Mariana Islands, kind: territory, capital: Saipan, capitalDistractors: [Tinian, Rota, Pagan] }
